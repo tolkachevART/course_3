@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+dist/
+*.egg-info/
+
+.coverage
+*.py,cover
+.cache/
+
+.py,cover
+
+.ipynb_checkpoints
+
+.idea
+
+venv/
+.env
+
+pyproject.toml
