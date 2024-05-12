@@ -19,7 +19,5 @@ dist/
 
 .idea
 
-venv/
+.venv
 .env
-
-pyproject.toml
